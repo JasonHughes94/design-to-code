@@ -99,6 +99,7 @@ nav .logo {
 	font-size: 48px;
 	font-weight: 900;
 	color: #d25c51;
+	margin: 0;
 }
 
 nav .logo:hover {
